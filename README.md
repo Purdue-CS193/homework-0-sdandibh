@@ -1,4 +1,11 @@
+# Sravya's First CS193 Homework
 # CS 193 Homework 0 - GitHub and Your Own Website!
+
+# Some things I love about CS193
+- the TA's are awesome
+- my friends are in the class
+- CS is exciting
+- It is a fun class
 
 ## What is this assignment
 
